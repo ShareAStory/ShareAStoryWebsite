@@ -41,3 +41,5 @@ https://www.researchgate.net/publication/318853356_Sharing_Life_Stories_Design_a
 https://www.cambridge.org/core/journals/ageing-and-society/article/digitising-the-wisdom-of-our-elders-connectedness-through-digital-storytelling/1F3977A599B9631208BBEC0117994069 
 https://cadth.ca/sites/default/files/symp-2019/presentations/april16-2019/E1-presentation-lliu.pdf 
 
+I do not yet have any graphic designs for this website, if you are able to commit some ideas, please do. Or if you have any ideas on how the website should look like this add your ideas. 
+
