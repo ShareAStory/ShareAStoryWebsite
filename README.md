@@ -29,7 +29,7 @@ Requirements
 
 8.	All stories which have been recorded will be shown on a timeline and either they can share the story or can keep it private for themselves. 
 
-9.	The second option would be to search for friends and it will be wh+++ere the recommendations will appear for matches from their story. 
+9.	The second option would be to search for friends and it will be where the recommendations will appear for matches from their story. 
 
 10.	The third option, will be a community space were multiple people can speak to each other and without interferences issues. 
 
