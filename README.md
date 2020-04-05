@@ -43,3 +43,7 @@ https://cadth.ca/sites/default/files/symp-2019/presentations/april16-2019/E1-pre
 
 I do not yet have any graphic designs for this website, if you are able to commit some ideas, please do. Or if you have any ideas on how the website should look like this add your ideas. 
 
+I will not have time to work on this project until May. But please add your ideas and look at how current technology and tools can be used. 
+
+This is an open source project and you will do on a voluntary basis, as you are helping to create a very important to tool. 
+
