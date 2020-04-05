@@ -1,6 +1,7 @@
 Share A Story project
 
 Purpose / Initial idea
+
 What could help older adults cope with the changes to our lives arising from the COVID-19 crisis?  Loneliness and isolation are known to influence health and well-being negatively, while social support can act as a buffer against stress.  My idea is to develop a user-friendly audio, video and text-based platform to enable older adults to share autobiographical stories and connect with others. The platform would enable matching by place of origin or interests or perhaps year of birth. My hope would be to achieve this in the next two months.  It is proposed that GitHub would be used to enable people to work on the project.
 The main features would be sharing a 10-minute video or short typed story (500 words maximum), upload it, then others can listen or read it. There would be a facility to comment on the stories.   A second feature would be connecting to other users of the platform; those with whom users have been matched or found by a search. 
 Safety is a major consideration. The platform would be built upon cloud technology and be password-protected. The software would need to recognise hate speech, other inappropriate content or if users are at risk so that action can be taken.  
